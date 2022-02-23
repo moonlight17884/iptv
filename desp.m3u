@@ -227,7 +227,7 @@ http://hz01.oknirvana.club:8880/AA6M0485/535355353/29334
 #EXTINF:-1 group-title="PT 4",PT:Eleven Sports 6 FHD
 http://hz01.oknirvana.club:8880/AA6M0485/535355353/49032
 ##### PT - DESPORTO 6 #####
-#EXTINF:-1 group-title="PT 5",PT: ELEVEN SPORTS 1 FHD
+#EXTINF:-1 group-title="PT 5",PT: ELEVEN SPORTS 1 FHD group-title="PT 5"
 http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/129055.ts
 #EXTINF:-1 group-title="PT 5",PT: ELEVEN SPORTS 2 FHD
 http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/129057.ts
@@ -252,7 +252,7 @@ http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/129176.ts
 #EXTINF:-1 group-title="PT 5",PT: SPORT TV 5 FHD
 http://cixiptvtest102.xyz:8080/live/Nezih35/35nezih/129178.ts
 ##### PT - DESPORTO 7 #####
-#EXTINF:-1 group-title="PT 6",PT: Benfica TV HD
+#EXTINF:-1 group-title="PT 6",PT: Benfica TV HD group-title="PT 6"
 http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/42093
 #EXTINF:-1 group-title="PT 6",PT: Benfica TV
 http://portal.m1n2.me:80/zXig8cj4uJ/ysKHL7knP9/62303
