@@ -1,203 +1,129 @@
 #EXTM3U
-#EXTINF:-1,RTP1 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1018
-#EXTINF:-1,RTP 1 PT
-http://showflix.org:5890/Berlin/Berlin/1019
-#EXTINF:-1,RTP2 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1020
-#EXTINF:-1,RTP 2 PT
-http://showflix.org:5890/Berlin/Berlin/1021
-#EXTINF:-1,RTP 3 HD PT 
-http://showflix.org:5890/Berlin/Berlin/1022
-#EXTINF:-1,RTP MEMORIA PT
-http://showflix.org:5890/Berlin/Berlin/1023
-#EXTINF:-1,RTP MADEIRA PT
-http://showflix.org:5890/Berlin/Berlin/1024
-#EXTINF:-1,RTP AFRICA PT
-http://showflix.org:5890/Berlin/Berlin/1025
-#EXTINF:-1,RTP ACORES PT
-http://showflix.org:5890/Berlin/Berlin/1026
-#EXTINF:-1,RTP Informacional PT
-http://showflix.org:5890/Berlin/Berlin/1027
-#EXTINF:-1,TVI24 PT
-http://showflix.org:5890/Berlin/Berlin/1028
-#EXTINF:-1,TVI FHD PT
-http://showflix.org:5890/Berlin/Berlin/1029
-#EXTINF:-1,TVI PT
-http://showflix.org:5890/Berlin/Berlin/1030
-#EXTINF:-1,TVI FICCAO PT
-http://showflix.org:5890/Berlin/Berlin/1031
-#EXTINF:-1,TVI Reality HD PT
-http://showflix.org:5890/Berlin/Berlin/1032
-#EXTINF:-1,CMTV HD PT
-http://showflix.org:5890/Berlin/Berlin/1033
-#EXTINF:-1,SIC HD PT
-http://showflix.org:5890/Berlin/Berlin/1034
-#EXTINF:-1,SIC PT
-http://showflix.org:5890/Berlin/Berlin/1035
-#EXTINF:-1,SIC K PT 
-http://showflix.org:5890/Berlin/Berlin/1036
-#EXTINF:-1,SIC RADICAL FHD PT 
-http://showflix.org:5890/Berlin/Berlin/1037
-#EXTINF:-1,SIC NOTICIAS FHD PT
-http://showflix.org:5890/Berlin/Berlin/1038
-#EXTINF:-1,SIC MULHER FHD PT
-http://showflix.org:5890/Berlin/Berlin/1039
-#EXTINF:-1,--PT | Cinema --
-http://showflix.org:5890/Berlin/Berlin/1098
-#EXTINF:-1,TVCine TOP FHD PT
-http://showflix.org:5890/Berlin/Berlin/1099
-#EXTINF:-1,TVCINE TOP PT
-http://showflix.org:5890/Berlin/Berlin/1100
-#EXTINF:-1,TVCINE Edition FHD PT
-http://showflix.org:5890/Berlin/Berlin/1101
-#EXTINF:-1,TV CINE Edition PT
-http://showflix.org:5890/Berlin/Berlin/1102
-#EXTINF:-1,TVCine Emotion FHD PT
-http://showflix.org:5890/Berlin/Berlin/1103
-#EXTINF:-1,TVCINE Emotion PT
-http://showflix.org:5890/Berlin/Berlin/1104
-#EXTINF:-1,TVCine Action HD PT
-http://showflix.org:5890/Berlin/Berlin/1105
-#EXTINF:-1,TVCine Action PT
-http://showflix.org:5890/Berlin/Berlin/1106
-#EXTINF:-1,E! ENTERTAINMENT PT
-http://showflix.org:5890/Berlin/Berlin/1107
-#EXTINF:-1,TV Record PT
-http://showflix.org:5890/Berlin/Berlin/1108
-#EXTINF:-1,TLC PT
-http://showflix.org:5890/Berlin/Berlin/1109
-#EXTINF:-1,SYFY FHD PT
-http://showflix.org:5890/Berlin/Berlin/1110
-#EXTINF:-1,SYFY PT
-http://showflix.org:5890/Berlin/Berlin/1111
-#EXTINF:-1,Fuel TV FHD PT
-http://showflix.org:5890/Berlin/Berlin/1112
-#EXTINF:-1,NOS Studio FHD PT
-http://showflix.org:5890/Berlin/Berlin/1113
-#EXTINF:-1,FOX FHD PT
-http://showflix.org:5890/Berlin/Berlin/1114
-#EXTINF:-1,FOX Life FHD PT
-http://showflix.org:5890/Berlin/Berlin/1115
-#EXTINF:-1,FOX MOVIES FHD PT
-http://showflix.org:5890/Berlin/Berlin/1116
-#EXTINF:-1,FOX Crime FHD PT
-http://showflix.org:5890/Berlin/Berlin/1117
-#EXTINF:-1,FOX COMEDY FHD PT
-http://showflix.org:5890/Berlin/Berlin/1118
-#EXTINF:-1,AXN FHD PT
-http://showflix.org:5890/Berlin/Berlin/1119
-#EXTINF:-1,AXN WHITE FHD PT
-http://showflix.org:5890/Berlin/Berlin/1120
-#EXTINF:-1,AXN MOVIES FHD PT
-http://showflix.org:5890/Berlin/Berlin/1121
-#EXTINF:-1,AMC FHD PT
-http://showflix.org:5890/Berlin/Berlin/1122
-#EXTINF:-1,HOLLYWOOD FHD PT
-http://showflix.org:5890/Berlin/Berlin/1123
-#EXTINF:-1,CINEMUNDO PT
-http://showflix.org:5890/Berlin/Berlin/1124
-#EXTINF:-1,--PT | Soprts --
-http://showflix.org:5890/Berlin/Berlin/1068
-#EXTINF:-1,SPORT TV + FHD PT
-http://showflix.org:5890/Berlin/Berlin/1069
-#EXTINF:-1,SPORT TV 1 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1070
-#EXTINF:-1,SPORT TV1 PT 
-http://showflix.org:5890/Berlin/Berlin/1071
-#EXTINF:-1,SPORT TV2 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1072
-#EXTINF:-1,SPORT TV2 PT
-http://showflix.org:5890/Berlin/Berlin/1073
-#EXTINF:-1,SPORT TV 3 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1074
-#EXTINF:-1,SPORT TV 3 PT
-http://showflix.org:5890/Berlin/Berlin/1075
-#EXTINF:-1,SPORT TV 4 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1076
-#EXTINF:-1,SPORT TV4 PT
-http://showflix.org:5890/Berlin/Berlin/1077
-#EXTINF:-1,SPORTV 5 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1078
-#EXTINF:-1,SPORT TV 5 PT
-http://showflix.org:5890/Berlin/Berlin/1079
-#EXTINF:-1,SPORT TV NBA PT
-http://showflix.org:5890/Berlin/Berlin/1080
-#EXTINF:-1,Eleven Sports 1 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1081
-#EXTINF:-1,Eleven Sports 2 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1082
-#EXTINF:-1,Eleven Sports 3 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1083
-#EXTINF:-1,Eleven Sports 4 HD PT
-http://showflix.org:5890/Berlin/Berlin/1084
-#EXTINF:-1,Eleven Sports 5 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1085
-#EXTINF:-1,Eleven Sports 6 HD PT
-http://showflix.org:5890/Berlin/Berlin/1086
-#EXTINF:-1,BTV 1 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1087
-#EXTINF:-1,BTV 1 PT
-http://showflix.org:5890/Berlin/Berlin/1088
-#EXTINF:-1,Canal 11 FHD PT
-http://showflix.org:5890/Berlin/Berlin/1089
-#EXTINF:-1,PORTO CANAL  HD PT
-http://showflix.org:5890/Berlin/Berlin/1090
-#EXTINF:-1,MOTORVISION PT
-http://showflix.org:5890/Berlin/Berlin/1091
-#EXTINF:-1,KOMBAT SPORT PT
-http://showflix.org:5890/Berlin/Berlin/1092
-#EXTINF:-1,A BOLA TV PT
-http://showflix.org:5890/Berlin/Berlin/1096
-#EXTINF:-1,SPORTING TV HD PT
-http://showflix.org:5890/Berlin/Berlin/1097
-#EXTINF:-1,--PT | Enfants --
-http://showflix.org:5890/Berlin/Berlin/1041
-#EXTINF:-1,SIC Caras HD PT 
-http://showflix.org:5890/Berlin/Berlin/1040
-#EXTINF:-1,DISNEY CHANNEL PT
-http://showflix.org:5890/Berlin/Berlin/1042
-#EXTINF:-1,CARTOON NETWORK PT
-http://showflix.org:5890/Berlin/Berlin/1043
-#EXTINF:-1,CANAL PANDA PT
-http://showflix.org:5890/Berlin/Berlin/1044
-#EXTINF:-1,BABY TV PT
-http://showflix.org:5890/Berlin/Berlin/1045
-#EXTINF:-1,Nickelodeon PT
-http://showflix.org:5890/Berlin/Berlin/1046
-#EXTINF:-1,JIM JAM PT
-http://showflix.org:5890/Berlin/Berlin/1047
-#EXTINF:-1,DISNEY JUNIOR PT
-http://showflix.org:5890/Berlin/Berlin/1048
-#EXTINF:-1,--PT | Culturales LIVE --
-http://showflix.org:5890/Berlin/Berlin/1049
-#EXTINF:-1,Odisea PT
-http://showflix.org:5890/Berlin/Berlin/1050
-#EXTINF:-1,Caca E Cozinha PT
-http://showflix.org:5890/Berlin/Berlin/1051
-#EXTINF:-1,24 KITCHEN HD PT 
-http://showflix.org:5890/Berlin/Berlin/1052
-#EXTINF:-1,CANAL Q PT
-http://showflix.org:5890/Berlin/Berlin/1053
-#EXTINF:-1,CBS REALITY PT
-http://showflix.org:5890/Berlin/Berlin/1054
-#EXTINF:-1,DISCOVERY ID HD PT
-http://showflix.org:5890/Berlin/Berlin/1055
-#EXTINF:-1,NAT GEO WILD HD PT
-http://showflix.org:5890/Berlin/Berlin/1057
-#EXTINF:-1,DISCOVERY CHANNEL PT
-http://showflix.org:5890/Berlin/Berlin/1058
-#EXTINF:-1,DISCOVERY CHANNEL FHD PT
-http://showflix.org:5890/Berlin/Berlin/1059
-#EXTINF:-1,NAT GEO FHD PT
-http://showflix.org:5890/Berlin/Berlin/1060
-#EXTINF:-1,BLAZE FHD PT
-http://showflix.org:5890/Berlin/Berlin/1061
-#EXTINF:-1,TRAVEL CHANNEL FHD PT
-http://showflix.org:5890/Berlin/Berlin/1062
-#EXTINF:-1,TV GLOBO PT
-http://showflix.org:5890/Berlin/Berlin/1063
-#EXTINF:-1,HISTORIA PT
-http://showflix.org:5890/Berlin/Berlin/1065
-#EXTINF:-1,CACA E PESCA FHD PT
-http://showflix.org:5890/Berlin/Berlin/1067
+ group-title="PT DESPORTO",----- PT DESPORTO -----
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/139977
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="http://logo.sltv.site/logo/portugal/CANAL%2011.png" group-title="PT DESPORTO",PT: CANAL 11
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/203036
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HD" tvg-logo="http://logo.sltv.site/logo/portugal/CANAL%2011.png" group-title="PT DESPORTO",PT: CANAL 11 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/205660
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/CANAL%2011.png" group-title="PT DESPORTO",PT: CANAL 11 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/203037
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%20+.png" group-title="PT DESPORTO",PT: SPORT TV +
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/161969
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV + HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%20+%20FHD.png" group-title="PT DESPORTO",PT: SPORT TV + HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/374647
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%20+%20FHD.png" group-title="PT DESPORTO",PT: SPORT TV +H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/338957
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%201.png" group-title="PT DESPORTO",PT: SPORT TV 1
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/285911
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%201%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 1 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/302761
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%201%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 1 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/1455
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%202.png" group-title="PT DESPORTO",PT: SPORT TV 2
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/161957
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%202%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 2 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/205667
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%202%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 2 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/1456
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%203.png" group-title="PT DESPORTO",PT: SPORT TV 3
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/161966
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%203%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 3 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/205668
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%203%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 3 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/1457
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%204.png" group-title="PT DESPORTO",PT: SPORT TV 4
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/161967
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%204%20FULL%20%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 4 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/1458
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%204%20FULL%20%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 4 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/209531
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%205.png" group-title="PT DESPORTO",PT: SPORT TV 5
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/161968
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%205%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 5 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/1459
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTV%205%20FULL%20HD.png" group-title="PT DESPORTO",PT: SPORT TV 5 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/178145
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6" tvg-logo="http://logo.sltv.site/logo/portugal/sportTV6.png" group-title="PT DESPORTO",PT: SPORT TV 6
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/374543
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD" tvg-logo="http://logo.sltv.site/logo/portugal/sportTV6.png" group-title="PT DESPORTO",PT: SPORT TV 6 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/367634
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/sportTV6.png" group-title="PT DESPORTO",PT: SPORT TV 6 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/374544
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="http://logo.sltv.site/logo/portugal/NBA.png" group-title="PT DESPORTO",PT: SPORT TV NBA
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/178146
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="http://logo.sltv.site/logo/portugal/NBA.png" group-title="PT DESPORTO",PT: SPORT TV NBA HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/252145
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/NBA.png" group-title="PT DESPORTO",PT: SPORT TV NBA H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/183821
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV" tvg-logo="http://logo.sltv.site/logo/portugal/BTV%201.png" group-title="PT DESPORTO",PT: BTV
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/161970
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="http://logo.sltv.site/logo/portugal/BTV%201%20FULL%20HD.png" group-title="PT DESPORTO",PT: BTV HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/205659
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/BTV%201%20FULL%20HD.png" group-title="PT DESPORTO",PT: BTV H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/271763
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC INTERNACIONAL" tvg-logo="http://logo.sltv.site/logo/portugal/PFC.png" group-title="PT DESPORTO",PT: PFC INTERNACIONAL
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/277512
+#EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV" tvg-logo="http://logo.sltv.site/logo/portugal/redbulltv.png" group-title="PT DESPORTO",PT: REDBULL TV
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/178144
+#EXTINF:-1 tvg-id="" tvg-name="PT: REDBULL TV 1080" tvg-logo="http://logo.sltv.site/logo/portugal/redbulltv.png" group-title="PT DESPORTO",PT: REDBULL TV 1080
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/178148
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport1.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 SD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/164977
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport1.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/158069
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport1.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 1 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/285912
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport2.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 SD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/164978
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport2.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/158902
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport2.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 2 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/272329
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport3.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 SD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/164979
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport3.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/159765
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport3.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 3 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/272330
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 SD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport4.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 4 SD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/164980
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 4 HD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport4.png" group-title="PT DESPORTO",PT: ELEVEN SPORT 4 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/159766
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport5.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 5 SD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/164981
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVENSPORT 5 HD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport5.png" group-title="PT DESPORTO",PT: ELEVENSPORT 5 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/159767
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 SD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport6.png" group-title="PT DESPORTO",PT: ELEVEN SPORTS 6 SD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/164982
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVENSPORT 6 HD" tvg-logo="http://logo.sltv.site/logo/portugal/elevensport6.png" group-title="PT DESPORTO",PT: ELEVENSPORT 6 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/159768
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="http://logo.sltv.site/logo/portugal/EUROSPORT%201.png" group-title="PT DESPORTO",PT: EUROSPORT 1
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/136682
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="http://logo.sltv.site/logo/portugal/EUROSPORT%201%20HD.png" group-title="PT DESPORTO",PT: EUROSPORT 1 HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/252144
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/EUROSPORT%201%20HD.png" group-title="PT DESPORTO",PT: EUROSPORT 1 H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/2231
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="http://logo.sltv.site/logo/portugal/EUROSPORT%202.png" group-title="PT DESPORTO",PT: EUROSPORT 2
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/132911
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="http://logo.sltv.site/logo/portugal/BOLA%20TV.png" group-title="PT DESPORTO",PT: A BOLA TV
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/136661
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV HD" tvg-logo="http://logo.sltv.site/logo/portugal/BOLA%20TV.png" group-title="PT DESPORTO",PT: A BOLA TV HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/374671
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="PT: A BOLA TV H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/BOLA%20TV.png" group-title="PT DESPORTO",PT: A BOLA TV H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/338945
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV HD" tvg-logo="http://logo.sltv.site/logo/portugal/NBA.png" group-title="PT DESPORTO",PT: NBA TV HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/132918
+#EXTINF:-1 tvg-id="" tvg-name="PT: REAL MADRID TV" tvg-logo="http://logo.sltv.site/logo/portugal/REAL%20MADRID.png" group-title="PT DESPORTO",PT: REAL MADRID TV
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/136663
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA E PESCA" tvg-logo="http://logo.sltv.site/logo/portugal/CA%c3%87A%20E%20PESCA.png" group-title="PT DESPORTO",PT: CAÇA E PESCA
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/132898
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇAVISION" tvg-logo="http://logo.sltv.site/logo/portugal/CA%c3%87AVISION.png" group-title="PT DESPORTO",PT: CAÇAVISION
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/132899
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTING%20TV.png" group-title="PT DESPORTO",PT: SPORTING TV
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/2232
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING TV HD" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTING%20HD.png" group-title="PT DESPORTO",PT: SPORTING TV HD
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/374645
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: SPORTING H.265/HEVC" tvg-logo="http://logo.sltv.site/logo/portugal/SPORTING%20HD.png" group-title="PT DESPORTO",PT: SPORTING H.265/HEVC
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/374646
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV" tvg-logo="http://logo.sltv.site/logo/portugal/TOROS.png" group-title="PT DESPORTO",PT: TOROS TV
+http://dcgate.org:8080/WuXva1rSkE/61NzHkbSAK/136662
