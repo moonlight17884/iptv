@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1,##### PT - DESPORTO #####
-#EXTINF:-1,PT| ELEVEN SPORT 1 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 1 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51606
-#EXTINF:-1,PT| ELEVEN SPORT 2 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 2 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51607
-#EXTINF:-1,PT| ELEVEN SPORT 3 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 3 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51608
-#EXTINF:-1,PT| ELEVEN SPORT 4 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 4 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51609
-#EXTINF:-1,PT| ELEVEN SPORT 5 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 5 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51610
-#EXTINF:-1,PT| ELEVEN SPORT 6 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 6 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51611
-#EXTINF:-1,PT| SPORT TV FHD
+#EXTINF:-1,PT| SPORT TV FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51612
-#EXTINF:-1,PT| SPORT TV 1 FHD
+#EXTINF:-1,PT| SPORT TV 1 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51613
-#EXTINF:-1,PT| SPORT TV 2 FHD
+#EXTINF:-1,PT| SPORT TV 2 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51614
-#EXTINF:-1,PT| SPORT TV 3 FHD
+#EXTINF:-1,PT| SPORT TV 3 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51615
-#EXTINF:-1,PT| SPORT TV 4 FHD
+#EXTINF:-1,PT| SPORT TV 4 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51616
-#EXTINF:-1,PT| SPORT TV 5 FHD
+#EXTINF:-1,PT| SPORT TV 5 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51617
-#EXTINF:-1,PT| BTV 1 FHD
+#EXTINF:-1,PT| BTV 1 FHD group-title="PT 1"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51621
 #EXTINF:-1 tvg-id="" tvg-name="----- PT MUSICA -----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT MUSICA",----- PT MUSICA -----
 #EXTINF:-1,PT: Sport TV  backup group-title="PT PORTUGAL"
@@ -88,92 +88,92 @@ http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/3991
 #EXTINF:-1,PT: Sporting TV FHD group-title="PT PORTUGAL"
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/7048
 ##### PT - DESPORTO 3 #####
-#EXTINF:-1,PT: SPORT TV 1 HD
+#EXTINF:-1,PT: SPORT TV 1 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/4119
-#EXTINF:-1,PT: SPORT TV 1 SD
+#EXTINF:-1,PT: SPORT TV 1 SD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/43594
-#EXTINF:-1,PT: SPORT TV 2 HD
+#EXTINF:-1,PT: SPORT TV 2 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/4120
-#EXTINF:-1,PT: SPORT TV 2 SD
+#EXTINF:-1,PT: SPORT TV 2 SD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/43595
-#EXTINF:-1,PT: SPORT TV 3 HD
+#EXTINF:-1,PT: SPORT TV 3 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/4121
-#EXTINF:-1,PT: SPORT TV 3 SD
+#EXTINF:-1,PT: SPORT TV 3 SD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/43596
-#EXTINF:-1,PT: SPORT TV 4
+#EXTINF:-1,PT: SPORT TV 4 group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/4122
-#EXTINF:-1,PT: SPORT TV 5
+#EXTINF:-1,PT: SPORT TV 5 group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/4185
-#EXTINF:-1,PT: SPORT TV+
+#EXTINF:-1,PT: SPORT TV+ group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/4186
-#EXTINF:-1,PT:  ELEVEN SPORTS 1 HD
+#EXTINF:-1,PT:  ELEVEN SPORTS 1 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/33429
-#EXTINF:-1,PT:  ELEVEN SPORTS 2 HD
+#EXTINF:-1,PT:  ELEVEN SPORTS 2 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/33428
-#EXTINF:-1,PT:  ELEVEN SPORTS 3 HD
+#EXTINF:-1,PT:  ELEVEN SPORTS 3 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/33427
-#EXTINF:-1,PT:  ELEVEN SPORTS 4 HD
+#EXTINF:-1,PT:  ELEVEN SPORTS 4 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/33426
-#EXTINF:-1,PT:  ELEVEN SPORTS 5 HD
+#EXTINF:-1,PT:  ELEVEN SPORTS 5 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/33425
-#EXTINF:-1,PT:  ELEVEN SPORTS 6 HD
+#EXTINF:-1,PT:  ELEVEN SPORTS 6 HD group-title="PT 2"
 http://stariptv.org:8080/wael2021/123456/33424
 ##### PT - DESPORTO 4 #####
-#EXTINF:-1,PT| BTV 1 HD
+#EXTINF:-1,PT| BTV 1 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6403
-#EXTINF:-1,PT| A BOLA TV HD
+#EXTINF:-1,PT| A BOLA TV HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6405
-#EXTINF:-1,PT| SPORTING TV HD
+#EXTINF:-1,PT| SPORTING TV HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6406
-#EXTINF:-1,PT| SPORT TV 5 HD
+#EXTINF:-1,PT| SPORT TV 5 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6407
-#EXTINF:-1,PT| SPORT TV 4 HD
+#EXTINF:-1,PT| SPORT TV 4 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6409
-#EXTINF:-1,PT| SPORT TV 3 HD
+#EXTINF:-1,PT| SPORT TV 3 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6411
-#EXTINF:-1,PT| SPORT TV 2 HD
+#EXTINF:-1,PT| SPORT TV 2 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6413
-#EXTINF:-1,PT| SPORT TV 1 HD
+#EXTINF:-1,PT| SPORT TV 1 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6415
-#EXTINF:-1,PT| SPORT TV HD
+#EXTINF:-1,PT| SPORT TV HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/6417
-#EXTINF:-1,PT| ELEVEN SPORT 6 HD
+#EXTINF:-1,PT| ELEVEN SPORT 6 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/20223
-#EXTINF:-1,PT| ELEVEN SPORT 5 HD
+#EXTINF:-1,PT| ELEVEN SPORT 5 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/20224
-#EXTINF:-1,PT| ELEVEN SPORT 4 HD
+#EXTINF:-1,PT| ELEVEN SPORT 4 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/20225
-#EXTINF:-1,PT| ELEVEN SPORT 3 HD
+#EXTINF:-1,PT| ELEVEN SPORT 3 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/20226
-#EXTINF:-1,PT| ELEVEN SPORT 2 HD
+#EXTINF:-1,PT| ELEVEN SPORT 2 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/20227
-#EXTINF:-1,PT| ELEVEN SPORT 1 HD
+#EXTINF:-1,PT| ELEVEN SPORT 1 HD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/20228
-#EXTINF:-1,PT| SPORTING TV FHD
+#EXTINF:-1,PT| SPORTING TV FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51605
-#EXTINF:-1,PT| ELEVEN SPORT 1 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 1 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51606
-#EXTINF:-1,PT| ELEVEN SPORT 2 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 2 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51607
-#EXTINF:-1,PT| ELEVEN SPORT 3 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 3 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51608
-#EXTINF:-1,PT| ELEVEN SPORT 4 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 4 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51609
-#EXTINF:-1,PT| ELEVEN SPORT 5 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 5 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51610
-#EXTINF:-1,PT| ELEVEN SPORT 6 FHD
+#EXTINF:-1,PT| ELEVEN SPORT 6 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51611
-#EXTINF:-1,PT| SPORT TV FHD
+#EXTINF:-1,PT| SPORT TV FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51612
-#EXTINF:-1,PT| SPORT TV 1 FHD
+#EXTINF:-1,PT| SPORT TV 1 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51613
-#EXTINF:-1,PT| SPORT TV 2 FHD
+#EXTINF:-1,PT| SPORT TV 2 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51614
-#EXTINF:-1,PT| SPORT TV 3 FHD
+#EXTINF:-1,PT| SPORT TV 3 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51615
-#EXTINF:-1,PT| SPORT TV 4 FHD
+#EXTINF:-1,PT| SPORT TV 4 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51616
-#EXTINF:-1,PT| SPORT TV 5 FHD
+#EXTINF:-1,PT| SPORT TV 5 FHD group-title="PT 3"
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51617
 ##### PT - DESPORTO 5 #####
 #EXTINF:-1,PT:Benfica TV 1 FHD
