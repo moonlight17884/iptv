@@ -26,7 +26,7 @@ http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51616
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51617
 #EXTINF:-1,PT| BTV 1 FHD
 http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/51621
-#EXTINF:-1,##### PT - SERIES  #####
+#EXTINF:-1 tvg-id="" tvg-name="----- PT MUSICA -----" tvg-logo="http://logo.sltv.site/logo/flag/pt.png" group-title="PT MUSICA",----- PT MUSICA -----
 #EXTINF:-1,PT: Sport TV  backup group-title="PT PORTUGAL"
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/16742
 #EXTINF:-1,PT: SPORT TV + group-title="PT PORTUGAL"
